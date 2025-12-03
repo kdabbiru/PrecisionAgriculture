@@ -1,12 +1,12 @@
 # Precision Agriculture using Machine Learning
 
-## Data Source 📊
+## Data Source📊
 
 - [Crop Recommendation Dataset](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset) (Custom-built Dataset)
 - [Fertilizer Suggestion Dataset](https://github.com/Gladiator07/Harvestify/blob/master/Data-processed/fertilizer.csv) (Custom-built Dataset)
 - [Disease Detection Dataset](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset)
 
-## Motivation 💪
+## Motivation💪
 
 Farming is one of the major sectors that influences a country’s economic growth.
 
@@ -158,3 +158,4 @@ python app.py
 1. **[Tree](https://tree.nathanfriend.com/)**: For generating ASCII folder structure diagrams.
 2. **[Readme.so](https://readme.so/)**: For generating the README file.
 3. **[GitHub Reference](https://github.com/atharval1/precision-agriculture-using-machine-learning)**
+
